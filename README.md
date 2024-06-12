@@ -36,3 +36,6 @@ Uncache the home_sales temporary table.
 Verify that the home_sales temporary table is uncached using PySpark.
 
 Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
+
+resources used to copmlete the homework:
+https://git.bootcampcontent.com/Rutgers-University/PSEG-RUT-VIRT-DATA-PT-10-2023-U-LOLC/-/blob/main/01-Lesson-Plans/22-Big-Data/3/Activities/04-Stu_Partitioning/Solved/practicing_partitions_solution_colab.ipynb?ref_type=heads
